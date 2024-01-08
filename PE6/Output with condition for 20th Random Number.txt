@@ -1,0 +1,13 @@
+'PE6.exe' (Win32): Loaded 'G:\School Stuff\RIT\Data Struc & Alg Games & Sim 1\Class Repository\PE6\Debug\PE6.exe'. Symbols loaded.
+'PE6.exe' (Win32): Loaded 'C:\Windows\SysWOW64\ntdll.dll'. Symbols loaded.
+'PE6.exe' (Win32): Loaded 'C:\Windows\SysWOW64\kernel32.dll'. 
+'PE6.exe' (Win32): Loaded 'C:\Windows\SysWOW64\KernelBase.dll'. 
+'PE6.exe' (Win32): Loaded 'C:\Windows\SysWOW64\msvcp140d.dll'. 
+'PE6.exe' (Win32): Loaded 'C:\Windows\SysWOW64\vcruntime140d.dll'. 
+'PE6.exe' (Win32): Loaded 'C:\Windows\SysWOW64\ucrtbased.dll'. 
+The thread 0x4de4 has exited with code 0 (0x0).
+Value of i: 20   Value of random value: 14073
+The thread 0x29d0 has exited with code -1073741510 (0xc000013a).
+The thread 0x285c has exited with code -1073741510 (0xc000013a).
+The thread 0x55d0 has exited with code -1073741510 (0xc000013a).
+The program '[14664] PE6.exe' has exited with code -1073741510 (0xc000013a).

@@ -1,0 +1,10 @@
+﻿  main.cpp
+G:\School Stuff\RIT\Data Struc & Alg Games & Sim 1\Class Repository\HW1\HW1\main.cpp(43,27): warning C4018: '<': signed/unsigned mismatch
+G:\School Stuff\RIT\Data Struc & Alg Games & Sim 1\Class Repository\HW1\HW1\main.cpp(65,27): warning C4018: '<': signed/unsigned mismatch
+G:\School Stuff\RIT\Data Struc & Alg Games & Sim 1\Class Repository\HW1\HW1\main.cpp(70,31): warning C4018: '<': signed/unsigned mismatch
+  Generating code
+  1 of 15 functions ( 6.7%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  HW1.vcxproj -> G:\School Stuff\RIT\Data Struc & Alg Games & Sim 1\Class Repository\HW1\Release\HW1.exe

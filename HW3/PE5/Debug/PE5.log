@@ -1,0 +1,8 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(519,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (HW2.vcxproj, PE5.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  main.cpp
+G:\School Stuff\RIT\Data Struc & Alg Games & Sim 1\Class Repository\HW3\PE5\main.cpp(4,1): warning C4005: 'SFML_STATIC': macro redefinition
+G:\School Stuff\RIT\Data Struc & Alg Games & Sim 1\Class Repository\HW3\PE5\main.cpp : message : see previous definition of 'SFML_STATIC'
+G:\School Stuff\RIT\Data Struc & Alg Games & Sim 1\Class Repository\HW3\PE5\main.cpp(101,19): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+G:\School Stuff\RIT\Data Struc & Alg Games & Sim 1\Class Repository\HW3\PE5\main.cpp(103,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+G:\School Stuff\RIT\Data Struc & Alg Games & Sim 1\Class Repository\HW3\PE5\main.cpp(104,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  PE5.vcxproj -> G:\School Stuff\RIT\Data Struc & Alg Games & Sim 1\Class Repository\HW3\Debug\HW3.exe

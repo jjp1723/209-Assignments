@@ -1,0 +1,5 @@
+﻿  main.cpp
+G:\School Stuff\RIT\Data Struc & Alg Games & Sim 1\Class Repository\HW1\HW1\main.cpp(43,27): warning C4018: '<': signed/unsigned mismatch
+G:\School Stuff\RIT\Data Struc & Alg Games & Sim 1\Class Repository\HW1\HW1\main.cpp(65,27): warning C4018: '<': signed/unsigned mismatch
+G:\School Stuff\RIT\Data Struc & Alg Games & Sim 1\Class Repository\HW1\HW1\main.cpp(70,31): warning C4018: '<': signed/unsigned mismatch
+  HW1.vcxproj -> G:\School Stuff\RIT\Data Struc & Alg Games & Sim 1\Class Repository\HW1\Debug\HW1.exe

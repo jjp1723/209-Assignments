@@ -1,0 +1,6 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(519,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (PE5.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  main.cpp
+G:\School Stuff\RIT\Data Struc & Alg Games & Sim 1\Class Repository\HW2\PE5\main.cpp(107,19): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+G:\School Stuff\RIT\Data Struc & Alg Games & Sim 1\Class Repository\HW2\PE5\main.cpp(109,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+G:\School Stuff\RIT\Data Struc & Alg Games & Sim 1\Class Repository\HW2\PE5\main.cpp(110,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  PE5.vcxproj -> G:\School Stuff\RIT\Data Struc & Alg Games & Sim 1\Class Repository\HW2\Debug\HW2.exe

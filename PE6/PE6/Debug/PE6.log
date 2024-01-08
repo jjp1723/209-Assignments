@@ -1,0 +1,3 @@
+﻿  PE6.cpp
+G:\School Stuff\RIT\Data Struc & Alg Games & Sim 1\Class Repository\PE6\PE6\PE6.cpp(13,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  PE6.vcxproj -> G:\School Stuff\RIT\Data Struc & Alg Games & Sim 1\Class Repository\PE6\Debug\PE6.exe

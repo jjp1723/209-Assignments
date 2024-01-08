@@ -1,0 +1,3 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(519,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (PE9.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Player.cpp
+  PE9.vcxproj -> G:\School Stuff\RIT\Data Struc & Alg Games & Sim 1\Class Repository\PE10\Debug\PE10.exe

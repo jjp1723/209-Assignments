@@ -1,0 +1,60 @@
+Iteration count: 1
+Random value: 25363
+
+Iteration count: 2
+Random value: 23812
+
+Iteration count: 3
+Random value: 2424
+
+Iteration count: 4
+Random value: 3766
+
+Iteration count: 5
+Random value: 4831
+
+Iteration count: 6
+Random value: 28582
+
+Iteration count: 7
+Random value: 28347
+
+Iteration count: 8
+Random value: 32177
+
+Iteration count: 9
+Random value: 1756
+
+Iteration count: 10
+Random value: 31016
+
+Iteration count: 11
+Random value: 10507
+
+Iteration count: 12
+Random value: 13442
+
+Iteration count: 13
+Random value: 29290
+
+Iteration count: 14
+Random value: 17081
+
+Iteration count: 15
+Random value: 29419
+
+Iteration count: 16
+Random value: 363
+
+Iteration count: 17
+Random value: 12631
+
+Iteration count: 18
+Random value: 9532
+
+Iteration count: 19
+Random value: 15553
+
+Iteration count: 20
+Random value: 25098
+
